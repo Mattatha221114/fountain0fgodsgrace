@@ -1,0 +1,12 @@
+All 10 pages at 1440px: layout, labels, navigation and public copy passed
+All 10 pages at 1024px: layout, labels, navigation and public copy passed
+All 10 pages at 768px: layout, labels, navigation and public copy passed
+All 10 pages at 390px: layout, labels, navigation and public copy passed
+All 10 pages at 320px: layout, labels, navigation and public copy passed
+Mobile menu, keyboard close, dock links and Prayer Line passed
+All five payment methods: relevant fields, review, cleared sensitive values, unconnected result, no network/storage passed
+Invalid giving amount prevented
+Testimonies page and registration pending state passed
+Logo entrance completion and desktop pointer movement passed
+Reduced-motion entrance bypass and keyboard skip link passed
+Internal links passed; no JavaScript errors
